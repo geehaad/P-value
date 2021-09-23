@@ -21,3 +21,6 @@ Using a threshold of 0.2 means we are willing to get <b>False Positive</b> 2 tim
 That said, the most common threshold is 0.05 because trying to reduce the number of <b>False Positive</b> below 5% often costs more than it is worth.
 
 P-value helps us decide a thing, but doesnot tells us how different the situations are from each others.
+
+In fancy statistical, the idea of trying to determine if our situations/hypothesis is true or not called <b>Hypothesis test</b>
+In <b>Hypothesis test</b>, P-value helps us decide if we should reject the <b>Null Hypothesis</b> or not.
